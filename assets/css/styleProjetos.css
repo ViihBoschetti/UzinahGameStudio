@@ -131,6 +131,10 @@ a:hover{
         transition: 0.5s 0.8s;
     }
 
+    .texto{
+        font-size: 20px;
+    }
+
     /*Estilos ativos*/
 
     .nav.active .nav-list{
