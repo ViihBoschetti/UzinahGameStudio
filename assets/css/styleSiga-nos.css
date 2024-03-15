@@ -52,6 +52,7 @@ a:hover{
 .hero{
     height: calc(100vh - 80px);
     background-color: black;
+    background-size: cover;
 }
 
 .container{
@@ -61,10 +62,18 @@ a:hover{
     align-items: center;
 }
 
-.texto{
-    font-family: "Chewy", system-ui;
+.container ul li{
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.container i{
+    font-size: 2em;
+}
+
+.container a{
     color: white;
-    font-size: 32px;
+    font-size: 24px;
 }
 
 .hamburguer{
