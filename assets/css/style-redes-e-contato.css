@@ -51,7 +51,7 @@ a:hover{
 
 .hero{
     height: calc(100vh - 80px);
-    background-color: black;
+    background: linear-gradient(135deg, #2c2c2c, #000000);
     background-size: cover;
 }
 

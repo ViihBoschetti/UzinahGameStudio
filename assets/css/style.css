@@ -168,3 +168,19 @@ a:hover{
         top: -7px;
     }
 }
+
+.update-banner {
+    background: linear-gradient(90deg, #ff8711, #ffb347);
+    color: #000;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    padding: 12px 24px;
+    font-size: 1rem;
+    font-weight: 600;
+    text-shadow: none;
+    letter-spacing: 0.5px;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
